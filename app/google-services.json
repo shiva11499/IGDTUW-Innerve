@@ -1,35 +1,35 @@
 {
   "project_info": {
-    "project_number": "875897432566",
-    "firebase_url": "https://hai-kya-ye.firebaseio.com",
-    "project_id": "hai-kya-ye",
-    "storage_bucket": "hai-kya-ye.appspot.com"
+    "project_number": "70164001135",
+    "firebase_url": "https://lifesaver-18f28.firebaseio.com",
+    "project_id": "lifesaver-18f28",
+    "storage_bucket": "lifesaver-18f28.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:875897432566:android:b7c8c8ff386b8178",
+        "mobilesdk_app_id": "1:70164001135:android:b7c8c8ff386b8178",
         "android_client_info": {
           "package_name": "com.example.android.safeline"
         }
       },
       "oauth_client": [
         {
-          "client_id": "875897432566-qqrubnptffvon7802a5ub4r6ht9b1e0i.apps.googleusercontent.com",
+          "client_id": "70164001135-hv699ro9ap3qvh5udi0s8ttbr0ldr24q.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.android.safeline",
-            "certificate_hash": "c06bccf39ad17785a79dfa6d4ce1075f46bdfd42"
+            "certificate_hash": "4dd6f8c676ed528cf639a2785aec3fefd2c7c09f"
           }
         },
         {
-          "client_id": "875897432566-gdggi6klrqoplpmv2p20v3q9ldvlv9da.apps.googleusercontent.com",
+          "client_id": "70164001135-tban8ti9spgboahdv35ppv6j3m30gp88.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC5k5vBpfrOndL_NZPI9z1dB8SxGN6AZZM"
+          "current_key": "AIzaSyAT4UUWIA9HW2CFMgr5T4MuMz5OTbvUC18"
         }
       ],
       "services": {
@@ -40,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "875897432566-gdggi6klrqoplpmv2p20v3q9ldvlv9da.apps.googleusercontent.com",
+              "client_id": "70164001135-tban8ti9spgboahdv35ppv6j3m30gp88.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
@@ -52,20 +52,28 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:875897432566:android:64e58dacc0483faa",
+        "mobilesdk_app_id": "1:70164001135:android:e0b0fa911ce40030",
         "android_client_info": {
-          "package_name": "com.google.firebase.udacity.friendlychat"
+          "package_name": "com.jskgmail.lifesaver"
         }
       },
       "oauth_client": [
         {
-          "client_id": "875897432566-gdggi6klrqoplpmv2p20v3q9ldvlv9da.apps.googleusercontent.com",
+          "client_id": "70164001135-143hnubjplur3uj1u3armi96amqf0jgc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jskgmail.lifesaver",
+            "certificate_hash": "4dd6f8c676ed528cf639a2785aec3fefd2c7c09f"
+          }
+        },
+        {
+          "client_id": "70164001135-tban8ti9spgboahdv35ppv6j3m30gp88.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC5k5vBpfrOndL_NZPI9z1dB8SxGN6AZZM"
+          "current_key": "AIzaSyAT4UUWIA9HW2CFMgr5T4MuMz5OTbvUC18"
         }
       ],
       "services": {
@@ -73,8 +81,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70164001135-tban8ti9spgboahdv35ppv6j3m30gp88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
