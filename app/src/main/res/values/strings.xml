@@ -6,5 +6,6 @@
     <string name="text_inside_circle_button_text_normal">Text Inside Circle Button(Normal)</string>
 
     <string name="text_outside_circle_button_text_normal">Text Outside Circle Button(Normal)</string>
+    <string name="default_notification_channel_id">fcm_default_channel</string>
 
 </resources>

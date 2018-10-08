@@ -17,17 +17,17 @@ import java.util.List;
 public class BuilderManager {
 
     private static int[] imageResources = new int[]{
-            R.drawable.b,
-            R.drawable.b,
-            R.drawable.b,
-            R.drawable.b,
+            R.drawable.ic_add_alert_black_24dp,
+            R.drawable.ic_airport_shuttle_black_24dp,
+            R.drawable.ic_person_add_black_24dp,
+            R.drawable.ic_announcement_black_24dp
 
     };
     private static String[] imagtext = new String[]{
-            "Ambulance",
             "Police Station",
             "Fire Brigade",
-            "Disaster"
+            "Contact",
+            "Disaster",
 
     };
     private static int imageResourceIndex = 0,imgtext=0;
