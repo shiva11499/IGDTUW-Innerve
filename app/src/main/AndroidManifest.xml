@@ -18,7 +18,8 @@
         </activity>
         <activity
             android:name=".FrontPage"
-            android:label="Safeline"
+            android:label="SAFELINE"
+
             android:theme="@style/Theme.AppCompat.NoActionBar"
             >
             <intent-filter>
